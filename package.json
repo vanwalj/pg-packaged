@@ -6,7 +6,6 @@
   "author": "Jordan Van Walleghem <j.vanwall@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "mkdirp": "^0.5.1",
     "pg-download": "vanwalj/pg-download"
   },
   "devDependencies": {
